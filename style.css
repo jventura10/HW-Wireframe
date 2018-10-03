@@ -32,71 +32,72 @@ p {
 
 header {
     text-align: center;
-    margin-left: 100px;
+    margin-left: 10%;
     height: 70px;
-    padding-top: 35px;
-    width: 1200px;
-    margin-top: 20px;
+    padding-top: 5%;
+    width: 125%;
+    margin-top: 2%;
+    margin-bottom: 2%;
 }
 
 nav {
     text-align: center;
-    margin-left: 100px;
+    margin-left: 10%;
     height: 70px;
-    padding-top: 35px;
-    width: 1200px;
-    margin-bottom: 20px;
+    padding-top: 5%;
+    width: 125%;
+    margin-bottom: 2%;
 }
 
 section {
     text-align: center;
-    margin-left: 100px;
+    margin-left: 10%;
     float: left;
-    width: 630px;
-    margin-bottom: 20px;
+    width: 66%;
+    margin-bottom: 2%;
     height: 280px;
-    padding-top: 35px;
+    padding-top: 5%;
 }
 
 article {
     text-align: center;
-    padding-top: 10px;
-    margin: 45px 10px 15px 10px;
+    padding-top: 2%;
+    margin: 5% 2% 2% 2%;
     height: 185px;
-    width: 610px;
+    width: 95%;
 }
 
 h1 {
     text-align: center;
-    margin-left: 10px;
-    margin-right: 10px;
+    margin-left: 2%;
+    margin-right: 2%;
     height: 40px;
-    padding-top: 5px;
+    padding-top: 2%;
 }
 
 p {
     text-align: center;
-    margin-bottom: 10px;
-    margin-left: 10px;
-    margin-right: 10px;
+    margin-bottom: 2%;
+    margin-left: 2%;
+    margin-right: 2%;
     height: 40px;
-    padding-top: 5px;
+    padding-top: 2%;
 }
 
 aside {
     text-align: center;
-    padding-top: 35px;
-    width: 560px;
+    padding-top: 5%;
+    width: 58%;
     height: 280px;
-    margin-bottom: 20px;
-    margin-left: 740px;
+    margin-bottom: 2%;
+    margin-left: 77%;
 }
 
 footer {
     text-align: center;
     height: 70px;
     clear: both;
-    margin-left: 100px;
-    width: 1200px;
-    padding-top: 20px;
+    margin-left: 10%;
+    width: 125%;
+    padding-top: 5%;
 }
